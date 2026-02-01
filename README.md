@@ -70,3 +70,20 @@ Our mission is simple: help founders move from idea to impact—fast.
 - Product-oriented thinking
 
 - Engineering aligned with business goals
+
+## How We Work
+
+- Understand the Idea – Users, vision, and business goals
+
+- Define the MVP – Ruthless focus on essentials
+
+- Build & Ship Fast – Clean code, fast delivery
+
+- Iterate with Feedback – Improve based on real usage
+
+- Scale Confidently – When the product is ready
+
+## Philosophy
+
+Every startup begins as a story.
+FairyTale exists to help founders turn ideas into products—one fast, focused chapter at a time.
